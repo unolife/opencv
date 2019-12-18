@@ -1,7 +1,7 @@
 import cv2
 
 count = 0
-max_frame = 100
+max_frame = 5
 
 resolution = (4096,2160)
 
